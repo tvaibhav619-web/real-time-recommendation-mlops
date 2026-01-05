@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+kafka-python
+feast
+pymilvus
+evidently
+prometheus-client

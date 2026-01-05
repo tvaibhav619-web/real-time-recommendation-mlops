@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environment
+venv/
+.env
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Data / artifacts
+*.pt
+*.npy
+*.parquet
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
